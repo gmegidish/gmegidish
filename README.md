@@ -30,7 +30,9 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 - Crispy2d extension for Chrome
 - Minimalistic Apple2 emulator in Javascript
 - Doblin - Making long filenames available for DOS programs under Windows 95 
-- Venaxity - A files.bbs generator 
+- Venaxity - A files.bbs generator
+- Dumpr
+- Ambience
 
 ## Rewritten Games 🌱
 
