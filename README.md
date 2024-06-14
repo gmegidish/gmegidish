@@ -33,6 +33,8 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 - Venaxity - A files.bbs generator
 - Dumpr
 - Ambience
+- AppleWin hebrew keyboard bindings
+- TimeGal for Gameboy Advance
 
 ## Rewritten Games 🌱
 
