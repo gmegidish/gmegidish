@@ -11,6 +11,8 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 
 ## Projects 🌱
 
+- mobile-mcp - An MCP server for automating and controlling iOS and Android devices [git](https://github.com/mobile-next/mobile-mcp/)
+- Pricey App - An OSX status bar app that shows Claude Code usage in $ and time saved in $$$ [git](https://github.com/mobile-next/PriceyApp/)
 - My Wishlist - Twitch extension to display Amazon wishlist and receive gifts [twitch](https://dashboard.twitch.tv/extensions/016m5ut8s6cbdh9rmvx8gq1gempi4m)
 - My Instagram - Twitch extension for displaying Instagram photos [src](https://github.com/hypestreaming/my-instagram-ext), [twitch](https://dashboard.twitch.tv/extensions/a0nm5zyyzi0tgb805iaflj1yd2c5x5)
 - My Steam - Twitch extension for displaying Steam games library [src](https://github.com/hypestreaming/my-steam-games-ext), [twitch](https://dashboard.twitch.tv/extensions/wl1d1suog3vnmhkrhwow16yfwje9u6)
