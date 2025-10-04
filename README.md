@@ -41,9 +41,9 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 
 ## Retro Projects 🌱
 
-- VQ Encoder for Dreamcast
-- audsrv for ps2 - Audio server for ps2 (2005) [src](https://github.com/ps2dev/ps2sdk/tree/master/iop/sound/audsrv/src)
-- libsdl port for ps2 - Port of SDL to ps2 (2005) [src](https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl)
+- `vqenc` for Dreamcast (2002) [src](https://github.com/KallistiOS/KallistiOS/blob/master/utils/vqenc/vqenc.c)
+- `audsrv` for ps2 - Audio server for ps2 (2005) [src](https://github.com/ps2dev/ps2sdk/tree/master/iop/sound/audsrv/src)
+- `libsdl` port for ps2 - Port of SDL to ps2 (2005) [src](https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl)
 
 ## Papers &amp; Presentations 🔭
 
@@ -63,12 +63,14 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 - Dangerous Dave in Haunted Mansion for Sega Genesis
 - Crispy2d extension for Chrome
 - Minimalistic Apple2 emulator in Javascript
+- Minimalistic Apple2 emulator in mips for ps1
 - Doblin - Making long filenames available for DOS programs under Windows 95
 - Venaxity - A files.bbs generator
 - Dumpr
-- Ambience
+- Ambience - Window Manager for Windows 95+
+- Kirby - Virtual Desktop for Windows 95+
 - AppleWin hebrew keyboard bindings
 - TimeGal for Gameboy Advance
 - Groupshot
 - Stillshot
-- Say It Live
+- Say It Live - Twitch extension for TTS
