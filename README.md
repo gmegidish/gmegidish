@@ -4,10 +4,7 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 
 ## Get in Touch 📫
 
-- Twitter: https://x.com/gilmegidish
-- LinkedIn: https://www.linkedin.com/in/gilmegidish/
-- Facebook: https://www.facebook.com/GilMegidish
-- YouTube: https://www.youtube.com/channel/UCjlYasUmcYTuLtgjXiLs1uQ
+[X](https://x.com/gilmegidish) &middot; [LinkedIn](https://www.linkedin.com/in/gilmegidish/) &middot; [Facebook](https://www.facebook.com/GilMegidish) &middot; [YouTube](https://www.youtube.com/channel/UCjlYasUmcYTuLtgjXiLs1uQ)
 
 ## Projects 🌱
 
