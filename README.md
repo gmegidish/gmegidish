@@ -21,6 +21,11 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 - Another World Swiss Army Knife - A tool for managing resources from Another World game [src](https://github.com/gmegidish/awsak)
 - Another World Hebrew Translation - Fan made translation of Another World to Hebrew [src](https://github.com/gmegidish/another-world-hebrew)
 - Dragon's Lair 2 with Intro - A version of Dragon's Lair 2 with the intro from the arcade version [src](https://github.com/gmegidish/dragons-lair-2-pc-with-intro)
+- 🤖 Demo Ports - Classic demoscene productions rewritten to run in the browser [src](https://github.com/gmegidish/demoports), [watch online](https://gmegidish.github.io/demoports/)
+- 🤖 SSHDOOM - DOOM rendered with sixels in your terminal, over ssh [src](https://github.com/gmegidish/sshdoom)
+- 🤖 macusage - CLI tool showing how much you used your Mac in the last month, hour by hour, like GitHub's contributions chart [src](https://github.com/gmegidish/macusage)
+- 🤖 Jagger - Documentation generator for JSON-RPC APIs, like Swagger but for JSON-RPC [src](https://github.com/gmegidish/jagger)
+- 🤖 Radiolink Connect - Radiolink TF8B BLE connectivity for Chrome (Web Bluetooth) and Mac (CoreBluetooth) [src](https://github.com/gmegidish/radiolink-connect)
 
 ## Rewritten Games 🌱
 
@@ -38,12 +43,16 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 - xrick for ps2 - Port of Rick Dangerous to ps2 (2006) [src](https://github.com/gmegidish/ps2-xrick), [iso](https://github.com/gmegidish/ps2-xrick/tree/master/Schwarzendumpf)
 - Flashback for ps2 - Port of Flashback to ps2 (2006) [src](https://github.com/gmegidish/ps2-flashback), [iso](https://github.com/gmegidish/ps2-flashback/tree/master/titan)
 - Jump 'n Bump for ps2 - Port of Jump n' Bump to ps2 (2006) [src](https://github.com/gmegidish/ps2-jumpnbump), [iso](https://github.com/gmegidish/ps2-jumpnbump/tree/master/blood)
+- 🤖 Save Toshi - Browser rebuild of the Unity physics puzzle, all 100 levels [src](https://github.com/gmegidish/save-toshi), [play online](https://gmegidish.github.io/save-toshi/)
 
 ## Retro Projects 🌱
 
 - `vqenc` for Dreamcast (2002) [src](https://github.com/KallistiOS/KallistiOS/blob/master/utils/vqenc/vqenc.c)
 - `audsrv` for ps2 - Audio server for ps2 (2005) [src](https://github.com/ps2dev/ps2sdk/tree/master/iop/sound/audsrv/src)
 - `libsdl` port for ps2 - Port of SDL to ps2 (2005) [src](https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl)
+- GlimSCI - Custom VGA drivers for Sierra games using SCI [src](https://github.com/gmegidish/glimsci-sci-drivers)
+- 🤖 Skyworker English Translation - Skyworker (1994, MS-DOS) translated from German to English (WIP) [src](https://github.com/gmegidish/skyworker-english-translation)
+- 🤖 Alley Cat Disassembly - AI-powered disassembly of Alley Cat (MS-DOS) by Bill Williams, 1983 (WIP) [src](https://github.com/gmegidish/alleycat-disassembly)
 
 ## Papers &amp; Presentations 🔭
 
