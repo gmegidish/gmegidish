@@ -6,21 +6,21 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 
 ## Projects 🌱
 
-- mobile-mcp - An MCP server for automating and controlling iOS and Android devices [git](https://github.com/mobile-next/mobile-mcp/)
-- Pricey App - An OSX status bar app that shows Claude Code usage in $ and time saved in $$$ [git](https://github.com/mobile-next/PriceyApp/)
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp/) - An MCP server for automating and controlling iOS and Android devices
+- [Pricey App](https://github.com/mobile-next/PriceyApp/) - An OSX status bar app that shows Claude Code usage in $ and time saved in $$$
 - My Wishlist - Twitch extension to display Amazon wishlist and receive gifts [twitch](https://dashboard.twitch.tv/extensions/016m5ut8s6cbdh9rmvx8gq1gempi4m)
-- My Instagram - Twitch extension for displaying Instagram photos [src](https://github.com/hypestreaming/my-instagram-ext), [twitch](https://dashboard.twitch.tv/extensions/a0nm5zyyzi0tgb805iaflj1yd2c5x5)
-- My Steam - Twitch extension for displaying Steam games library [src](https://github.com/hypestreaming/my-steam-games-ext), [twitch](https://dashboard.twitch.tv/extensions/wl1d1suog3vnmhkrhwow16yfwje9u6)
-- Better Goals 🎯 - JIRA add-on for better goal tracking [src](https://github.com/goose-wrappers/better-goals), [marketplace](https://marketplace.atlassian.com/apps/1231053/better-goals-for-kanban-boards)
+- [My Instagram](https://github.com/hypestreaming/my-instagram-ext) - Twitch extension for displaying Instagram photos [twitch](https://dashboard.twitch.tv/extensions/a0nm5zyyzi0tgb805iaflj1yd2c5x5)
+- [My Steam](https://github.com/hypestreaming/my-steam-games-ext) - Twitch extension for displaying Steam games library [twitch](https://dashboard.twitch.tv/extensions/wl1d1suog3vnmhkrhwow16yfwje9u6)
+- [Better Goals 🎯](https://github.com/goose-wrappers/better-goals) - JIRA add-on for better goal tracking [marketplace](https://marketplace.atlassian.com/apps/1231053/better-goals-for-kanban-boards)
 - Icecream - Shoutcast stream downloader cli (2003) [src](https://icecream.sourceforge.net/)
-- Another World Swiss Army Knife - A tool for managing resources from Another World game [src](https://github.com/gmegidish/awsak)
-- Another World Hebrew Translation - Fan made translation of Another World to Hebrew [src](https://github.com/gmegidish/another-world-hebrew)
-- Dragon's Lair 2 with Intro - A version of Dragon's Lair 2 with the intro from the arcade version [src](https://github.com/gmegidish/dragons-lair-2-pc-with-intro)
-- 🤖 Demo Ports - Classic demoscene productions rewritten to run in the browser [src](https://github.com/gmegidish/demoports), [watch online](https://gmegidish.github.io/demoports/)
-- 🤖 SSHDOOM - DOOM rendered with sixels in your terminal, over ssh [src](https://github.com/gmegidish/sshdoom)
-- 🤖 macusage - CLI tool showing how much you used your Mac in the last month, hour by hour, like GitHub's contributions chart [src](https://github.com/gmegidish/macusage)
-- 🤖 Jagger - Documentation generator for JSON-RPC APIs, like Swagger but for JSON-RPC [src](https://github.com/gmegidish/jagger)
-- 🤖 Radiolink Connect - Radiolink TF8B BLE connectivity for Chrome (Web Bluetooth) and Mac (CoreBluetooth) [src](https://github.com/gmegidish/radiolink-connect)
+- [Another World Swiss Army Knife](https://github.com/gmegidish/awsak) - A tool for managing resources from Another World game
+- [Another World Hebrew Translation](https://github.com/gmegidish/another-world-hebrew) - Fan made translation of Another World to Hebrew
+- [Dragon's Lair 2 with Intro](https://github.com/gmegidish/dragons-lair-2-pc-with-intro) - A version of Dragon's Lair 2 with the intro from the arcade version
+- 🤖 [Demo Ports](https://github.com/gmegidish/demoports) - Classic demoscene productions rewritten to run in the browser [watch online](https://gmegidish.github.io/demoports/)
+- 🤖 [SSHDOOM](https://github.com/gmegidish/sshdoom) - DOOM rendered with sixels in your terminal, over ssh
+- 🤖 [macusage](https://github.com/gmegidish/macusage) - CLI tool showing how much you used your Mac in the last month, hour by hour, like GitHub's contributions chart
+- 🤖 [Jagger](https://github.com/gmegidish/jagger) - Documentation generator for JSON-RPC APIs, like Swagger but for JSON-RPC
+- 🤖 [Radiolink Connect](https://github.com/gmegidish/radiolink-connect) - Radiolink TF8B BLE connectivity for Chrome (Web Bluetooth) and Mac (CoreBluetooth)
 
 ## Rewritten Games 🌱
 
@@ -29,25 +29,25 @@ You have stumbled upon Gil Megidish's website. Nice to meet you 🤜🤛
 
 ## Original Games 🌱
 
-- 1989 - Interactive fiction game written in Basic for the Apple II (2021) [src](https://github.com/gmegidish/1989-interactive-fiction-game), [play online](https://archive.org/details/1989_20210902)
-- Grandpa Lives - Retro game entry for GGJ /w Gil Troitsa (2013) [src](https://github.com/gmegidish/grandpa-lives)
-- Son.. I am Disappoint - Survival Missile-Command-like game, GGJ /w Noam Abta &amp; Nimrod Sarda (2012) [src](https://github.com/gmegidish/son-i-am-disappoint)
+- [1989](https://github.com/gmegidish/1989-interactive-fiction-game) - Interactive fiction game written in Basic for the Apple II (2021) [play online](https://archive.org/details/1989_20210902)
+- [Grandpa Lives](https://github.com/gmegidish/grandpa-lives) - Retro game entry for GGJ /w Gil Troitsa (2013)
+- [Son.. I am Disappoint](https://github.com/gmegidish/son-i-am-disappoint) - Survival Missile-Command-like game, GGJ /w Noam Abta &amp; Nimrod Sarda (2012)
 
 ## Ported Games  🌱
 
-- xrick for ps2 - Port of Rick Dangerous to ps2 (2006) [src](https://github.com/gmegidish/ps2-xrick), [iso](https://github.com/gmegidish/ps2-xrick/tree/master/Schwarzendumpf)
-- Flashback for ps2 - Port of Flashback to ps2 (2006) [src](https://github.com/gmegidish/ps2-flashback), [iso](https://github.com/gmegidish/ps2-flashback/tree/master/titan)
-- Jump 'n Bump for ps2 - Port of Jump n' Bump to ps2 (2006) [src](https://github.com/gmegidish/ps2-jumpnbump), [iso](https://github.com/gmegidish/ps2-jumpnbump/tree/master/blood)
-- 🤖 Save Toshi - Browser rebuild of the Unity physics puzzle, all 100 levels [src](https://github.com/gmegidish/save-toshi), [play online](https://gmegidish.github.io/save-toshi/)
+- [xrick for ps2](https://github.com/gmegidish/ps2-xrick) - Port of Rick Dangerous to ps2 (2006) [iso](https://github.com/gmegidish/ps2-xrick/tree/master/Schwarzendumpf)
+- [Flashback for ps2](https://github.com/gmegidish/ps2-flashback) - Port of Flashback to ps2 (2006) [iso](https://github.com/gmegidish/ps2-flashback/tree/master/titan)
+- [Jump 'n Bump for ps2](https://github.com/gmegidish/ps2-jumpnbump) - Port of Jump n' Bump to ps2 (2006) [iso](https://github.com/gmegidish/ps2-jumpnbump/tree/master/blood)
+- 🤖 [Save Toshi](https://github.com/gmegidish/save-toshi) - Browser rebuild of the Unity physics puzzle, all 100 levels [play online](https://gmegidish.github.io/save-toshi/)
 
 ## Retro Projects 🌱
 
-- `vqenc` for Dreamcast (2002) [src](https://github.com/KallistiOS/KallistiOS/blob/master/utils/vqenc/vqenc.c)
-- `audsrv` for ps2 - Audio server for ps2 (2005) [src](https://github.com/ps2dev/ps2sdk/tree/master/iop/sound/audsrv/src)
-- `libsdl` port for ps2 - Port of SDL to ps2 (2005) [src](https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl)
-- GlimSCI - Custom VGA drivers for Sierra games using SCI [src](https://github.com/gmegidish/glimsci-sci-drivers)
-- 🤖 Skyworker English Translation - Skyworker (1994, MS-DOS) translated from German to English (WIP) [src](https://github.com/gmegidish/skyworker-english-translation)
-- 🤖 Alley Cat Disassembly - AI-powered disassembly of Alley Cat (MS-DOS) by Bill Williams, 1983 (WIP) [src](https://github.com/gmegidish/alleycat-disassembly)
+- [`vqenc` for Dreamcast](https://github.com/KallistiOS/KallistiOS/blob/master/utils/vqenc/vqenc.c) (2002)
+- [`audsrv` for ps2](https://github.com/ps2dev/ps2sdk/tree/master/iop/sound/audsrv/src) - Audio server for ps2 (2005)
+- [`libsdl` port for ps2](https://github.com/ps2dev/ps2sdk-ports/tree/master/sdl) - Port of SDL to ps2 (2005)
+- [GlimSCI](https://github.com/gmegidish/glimsci-sci-drivers) - Custom VGA drivers for Sierra games using SCI
+- 🤖 [Skyworker English Translation](https://github.com/gmegidish/skyworker-english-translation) - Skyworker (1994, MS-DOS) translated from German to English (WIP)
+- 🤖 [Alley Cat Disassembly](https://github.com/gmegidish/alleycat-disassembly) - AI-powered disassembly of Alley Cat (MS-DOS) by Bill Williams, 1983 (WIP)
 
 ## Papers &amp; Presentations 🔭
 
